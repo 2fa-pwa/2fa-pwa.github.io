@@ -1,6 +1,6 @@
 # 2fa-pwa (release repo)
 
-> PWA for scanning two factor auth qr codes. Scanned codes can be downloaded and uploaded to this app. Source code [is available in this repo](https://github.com/2fa-pwa/2fa-pwa)
+> PWA for scanning two factor auth qr codes. Scanned codes can be downloaded from and uploaded to this app. Source code [is available in this repo](https://github.com/2fa-pwa/2fa-pwa)
 
 ## GitHub pages deploy
 
